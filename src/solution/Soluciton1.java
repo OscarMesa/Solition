@@ -7,7 +7,7 @@ package solution;
 
 /**
  *
- * @author Oskar
+ * @author Julio
  */
 class Solution {
     public int solution(int[] A){
